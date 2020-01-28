@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Nakamoto Studies Institute
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
